@@ -1,0 +1,115 @@
+                                     .
+ ________.         ________          :__________            karl*    _____\___.
+_\       |________/       /_________ |        _/________\________   /     \\  |
+_\\      |       /      _/_\ _      \|       /     _     \       \ //      \\ |
+|\\      |     _//     ___/_\\     \ \      //     |     _\     \ \/ /     _\\|
+| \\     :      /      |      \     \     _//      :      \\     \  /|      \\_
+|__\\__________/_______________\____|\_____/_______________\_____|\/ |_______\
+ <:-\-------------------------------------/--------------------------:------:-
+  .                                                                  .      |
+  |     P r o u d l y   P r e s e n t s                                     |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |       Title : Armello (Update v1.0.1)                                   |
+  |                                                                         |
+  |   Publisher : League of Geeks             Platform : Nintendo Switch    |
+  |   Developer : League of Geeks               Origin : eShop / Europe     |
+  |       Genre : Strategy / Board Game       Title ID : 010070a00a5f4800   |
+  :        Date : October 2018                  Format : 07x50MB / NSP      |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     R e l e a s e   N o t e s                                           |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |   Armello is a grand swashbuckling adventure that combines three        |
+  |   styles of play: the deep tactics of card games with the rich          |
+  |   strategy of table top board games, combined with a character          |
+  |   role-playing system.                                                  |
+  |                                                                         |
+  |   As a hero from one of the clans of Armello, you'll quest, scheme,     |
+  |   hire agents, explore, vanquish monsters, cast spells and face off     |
+  |   against other players, with one ultimate end goal in mind -           |
+  |   storming the palace and becoming King or Queen of Armello. The        |
+  |   Kingdom of Armello is as dangerous as it is beautiful, perils,        |
+  |   banes and bandits hide around every corner and a spreading            |
+  |   corruption known as the Rot is leaving no creature untouched.         |
+  |                                                                         |
+  |   Update/Patch Notes: v1.0.1 (v65536)                                   |
+  |   You can apply this Update on our eShop release.                       |
+  |                                                                         |
+  |   Features                                                              |
+  |                                                                         |
+  |   In-game inventory, inventory item previews, collectable dice skins,   |
+  |   transmogrification of duplicate dice skins.                           |
+  |   The hunt begins. Complete Multiplayer Games to find chests, open      |
+  |   those chests to find Dice Skins!                                      |
+  |                                                                         |
+  |   Touch screen support in handheld mode.                                |
+  |   Get your dirty hands up in there.                                     |
+  |                                                                         |
+  |   Client/server multiplayer infrastructure.                             |
+  |   This is our new multiplayer logic overhaul that has been              |
+  |   implemented on Steam. It is a behind-the-scenes rework that           |
+  |   dramatically improves stability for multiplayer games.                |
+  |                                                                         |
+  |   Multiplayer events.                                                   |
+  |   Fury Friday and Stranger Games, two weekly events will now be         |
+  |   available to play!                                                    |
+  |                                                                         |
+  |   Improved user handling and GDPR support.                              |
+  |   We've improved the flow of how we communicate our intentions with     |
+  |   the data we collect from your devices. This stuff is important, so    |
+  |   please read through the relevant prompts if you get a chance.         |
+  |   The TLDR is essentially that we make games and only ever use your     |
+  |   data to make the game better.                                         |
+  |                                                                         |
+  |   Newsfeed caching improvements.                                        |
+  |   Extra! Extra! Read all about it!                                      |
+  |                                                                         |
+  |   Load time optimisations for Hero Select.                              |
+  |   Now I've committed to commenting on every feature point, but this     |
+  |   one is pretty straight forward. Really, it's just quicker.            |
+  |                                                                         |
+  |   Two new cards (Reliable Short Sword and Devious Ruse).                |
+  |   Available now in the Item deck and Trickery deck respectively.        |
+  |                                                                         |
+  |   Bug Fixes                                                             |
+  |                                                                         |
+  |   Fixed a save game bug, which impacted progress towards achievements   |
+  |   and ring/amulet unlocks.                                              |
+  |                                                                         |
+  |   Fixed a rare NMA (No More Actions softlock) occurring when entering   |
+  |   combat with the King.                                                 |
+  |                                                                         |
+  |   Fixed a bug where players can remain alive with 0 health.             |
+  |                                                                         |
+  |   Fixed a bug when playing a card on a creature that's just about to    |
+  |   move would cause the card to be stuck in Waiting.                     |
+  |                                                                         |
+  |   Fixed an issue when continuing a saved game a "DLC unowned" error     |
+  |   would pop up.                                                         |
+  |                                                                         |
+  |   Banes once again correctly attack after dungeon spawn.                |
+  |                                                                         |
+  |   Fixed an issue where the Commendation screen shows the count down     |
+  |   timer to be 0 (even though it is counting down, sneaky).              |
+  |                                                                         |
+  |   Fixed an issue where the Commendation screen will still wait for 30   |
+  |   seconds even if all other players have left.                          |
+  :                                                                         |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     G r e e t i n g s                                                   |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |            Abstrakt . Anthrox . Capital . Caravan . Complex             |
+  |    Dual Crew Shining . Duplex . Echelon . Eurasia . Kalisto . Legacy    |
+  |    Lightforce . Menace . Miracle . Mode 7 . Money . Mystic . Napalm     |
+  |    Nightfall . Oldskool . Paradox . Premiere . Project X . Protocol     |
+  |      Quartex . Quasar . Rising Sun . Scoopex . Sneakers . Triforce      |
+  |                                                                         |
+ -:-------------------------------------------------------------------------:>
+  |                                                                         |
+  .                   VENOM - The Playmakers! Since 2001.                   .
